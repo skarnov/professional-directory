@@ -1,0 +1,25 @@
+.profile_summery{
+	font-size: 14px;
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 18px;
+	padding-bottom:10px;
+	}
+.pg-list-1-left h4, .pglist-p-com-ti h3 {
+    padding-top: .9375pc;
+    color: #ffe500;
+	}	
+.profile_social_icon{
+	padding-top:20px;
+	}
+.profile_social_icon li{
+	float: left;padding: 5px 14px 5px 14px;background: #fff;border-radius:4px;margin-right:5px;
+	}	
+.collapsible-body {
+    display: none;
+    box-sizing: border-box;
+	padding:10px;
+}	
+[class~=list-enqu-btn] ul li {
+    width: 100%;
+}
